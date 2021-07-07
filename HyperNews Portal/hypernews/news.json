@@ -1,0 +1,50 @@
+[
+    {
+        "created": "2020-02-22 16:40:00",
+        "text": "A new star appeared in the sky.",
+        "title": "A star is born",
+        "link": 9234732
+    },
+    {
+        "created": "2020-02-09 14:15:10",
+        "text": "Text of the news 1",
+        "title": "News 1",
+        "link": 1
+    },
+    {
+        "created": "2020-02-10 14:15:10",
+        "text": "Text of the news 2",
+        "title": "News 2",
+        "link": 2
+    },
+    {
+        "created": "2020-02-09 16:15:10",
+        "text": "Text of the news 3",
+        "title": "News 3",
+        "link": 3
+    },
+    {
+        "created": "2021-07-07 09:48:25",
+        "text": "Hi guys",
+        "title": "CCNA",
+        "link": 46
+    },
+    {
+        "created": "2021-07-07 10:02:03",
+        "text": "Tkey",
+        "title": "QA Engineer",
+        "link": 68
+    },
+    {
+        "created": "2021-07-07 11:03:43",
+        "text": "Jovenel Moise speaks during the 2018 Concordia Annual Summit in New York on September 25, 2018. (CNN)Haiti's President Jovenel Moise was killed during an attack on his private residence early on Wednesday, according to the country's acting Prime Minister Claude Joseph.  Joseph said in a statement that a group of unidentified individuals attacked Moise's home at around 1 a.m. and fatally wounded the head of state. Haiti's first lady was also shot and is receiving treatment, he added.",
+        "title": "Haiti President Jovenel Moise assassinated in attack on his residence",
+        "link": 81
+    },
+    {
+        "created": "2021-07-07 11:04:42",
+        "text": "London (CNN)The Duchess of Cambridge is self-isolating after coming into contact with someone who has since tested positive for Covid-19, a spokesperson for Kensington Palace told CNN on Monday.  \"Her Royal Highness is not experiencing any symptoms, but is following all relevant government guidelines and is self-isolating at home,\" the spokesperson said. Kate will not attend Monday's engagements, the spokesperson added. She was alerted on Friday afternoon and began isolating then. UK government guidelines stipulate that anyone who has had close contact with an infected person must isolate for 10 days. A royal source told CNN that the duchess took lateral flow tests before her engagements last week at the Euro 2020 soccer tournament and at Wimbledon, and both were negative. She also followed the rules throughout Wimbledon on mask-wearing, the royal source added. The source said the duchess is tested for Covid-19 twice a week with lateral flow tests, in line with the royal household's testing system. She has also received both doses of her Covid-19 vaccine, the source added.",
+        "title": "Duchess of Cambridge forced to self-isolate after Covid-19 contact",
+        "link": 13
+    }
+]
